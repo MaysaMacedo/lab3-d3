@@ -75,7 +75,7 @@ var text = svg.append("text")
 	.attr("y", 10)
 	.attr("font-size", "12px")
 	.attr("fill", "#404040")
-	.text("What % of users answered on a specific hour of the day");
+	.text("Turno");
 
 //Initiate Legend
 var legend = svg.append("g")
